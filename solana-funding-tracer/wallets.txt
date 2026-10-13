@@ -1,0 +1,23 @@
+# ============================================================
+#  WALLET ADDRESSES TO TRACE (one per line)
+#  The bot will process them ONE AFTER THE OTHER
+# ============================================================
+# Just paste real addresses below this line (no # in front):
+D3aiphQ4piRumSVP5VByFeh9Dzn4VcBMu241oFL8B3GE 
+B9bYtwgEz3TRj6Jkf8WKD45fyQcqJvSAJ8qhQdfC2GSm 
+HFurbvYzekwyYFXLrFGczZuNx75Wmbd5ExkD8bHAsycT 
+HYcz2uB89Q3v7cRMxBKhFh8xdQ2fkvd5jfG2j8axWrHr 
+8XtVv1zzEwBEGKx27TCQVmpUoCsjtSGioHCUeTyBDSaB 
+AuuzUR2mrp6rNXXGTL3PwMUwgLWXrEiTv4xFHBMbFsEv 
+8LcEHCwo3WxopwtUaEfiGkf15cPWVKe2w5Kmg76t9tEf 
+DRGkwzsN4xoEctA2toz8RkbM9iwEhHy46eCTgFqZNQMn 
+9ifjkcHxTnRKDT7Xj84oE8vyyK28WNQYkJgy3WqfTdVz 
+BakVdhkSGmWHT1d6bzeBRcCGKb5Y19CVZyTmfuCm1yz8 
+CMLvSvZQRyGVDLDKWEgyz6sAddpErZuFANQsYZ7cQrXj 
+4DkYvGgySL1jGXxdCJCHAu2Trj2CMYAA2n65QTcxfPdz 
+AiKD7L3Gq5CqVCHQ5T78KXW4e4f2kb1HDsovbVLZDcjY 
+9C4nRvhhVquCKATjDCx5FKvNS9PNgNqgyWy9AcoDjYv5 
+Asi5DTGEeiso6k7ya6ndDabEZ7DRCgfTpCBLPH5E3aQs 
+9C4nRvhhVquCKATjDCx5FKvNS9PNgNqgyWy9AcoDjYv5 
+J4xLfsfzMLsaYaq7Zt74sFu8xQtchq1q73jrKvtiNBPJ 
+9C4nRvhhVquCKATjDCx5FKvNS9PNgNqgyWy9AcoDjYv5 
